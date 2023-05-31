@@ -1,1 +1,1 @@
-LAGS_ORDER_FILE=../data/sample.csv bin/rent
+LAGS_ORDER_FILE=data/sample.csv bin/rent
