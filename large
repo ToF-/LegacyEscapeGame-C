@@ -1,0 +1,1 @@
+LAGS_ORDER_FILE=../data/orders.csv bin/rent
